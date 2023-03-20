@@ -1,3 +1,9 @@
 # Move Weekly Share
 
-
+| 档期                                                                                           | 主题                       | 主持   | 剪辑    | 封面                                              | 视频                                                                           |
+|------------------------------------------------------------------------------------------------|----------------------------|--------|---------|---------------------------------------------------|--------------------------------------------------------------------------------|
+| Move Weekly 1<br>2023-02-08                                                                    | Sui Move Example Book 领读 | Bonnie | JoeChen | <img src="imgs/move-weekly-1.jpg" width="200px"/> | [Youtube](https://youtu.be/t69v_gVfQQg)<br>[Bilibili](https://t.co/s1Z3av5oVw) |
+| [Move Weekly 1](https://twitter.com/MoveFunsDAO/status/1628620843684368384?s=20)<br>2023-02-08 | Sui Move Example Book 领读 | Bonnie | JoeChen | <img src="imgs/move-weekly-1.jpg" width="200px"/> | [Youtube](https://youtu.be/t69v_gVfQQg)<br>[Bilibili](https://t.co/s1Z3av5oVw) |
+| <++>                                                                                           | <++>                       | <++>   | <++>    | <++>                                              | <++>                                                                           |
+| <++>                                                                                           | <++>                       | <++>   | <++>    | <++>                                              | <++>                                                                           |
+| <++>                                                                                           | <++>                       | <++>   | <++>    | <++>                                              | <++>                                                                           |
